@@ -1,3 +1,6 @@
 Line 1
 manchurian
 pizza
+idli
+sambar
+dhokla
